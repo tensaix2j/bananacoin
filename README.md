@@ -1,4 +1,4 @@
-My altcoin experiment!
+Bananacoin experiment
 =====================
 
 
