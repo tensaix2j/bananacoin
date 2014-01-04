@@ -1,4 +1,3 @@
-
 My altcoin experiment!
 =====================
 
@@ -9,7 +8,7 @@ To compile:
 
 
 
-To Build, Required libs are:
+Required libs:
 
 	build-essential
 
@@ -26,7 +25,7 @@ To Build, Required libs are:
 
 
 
-bananacoin.conf to start mining:
+bananacoin.conf:
 
 	rpcuser=anyname
 
@@ -41,7 +40,7 @@ bananacoin.conf to start mining:
 	connect=<peer ip>
 
 
-To run:
+Run as daemon:
 
 	bananacoind --daemon
   
