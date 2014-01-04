@@ -1,9 +1,10 @@
-Building Litecoin
+Building Bananacoin
 
-See doc/readme-qt.rst for instructions on building Litecoin-Qt,
+See doc/readme-qt.rst for instructions on building Bananacoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of Bananacoin.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building Bananacoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of Bananacoin.
+
